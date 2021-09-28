@@ -1,8 +1,8 @@
 # Function's Pack
-配布ワールドやミニゲームのシステム補助などに役立つ(かもしれない)Addonです。<br>
-ご意見などがありましたらTwitterなどにお送りください。
-
-<img src="http://zenero.cf/logo.png" width=40>
+<p>
+  配布ワールドやミニゲームのシステム補助などに役立つ(かもしれない)Addonです。<br>
+  ご意見などがありましたらTwitterなどにお送りください。
+</p>
 
 [Twitter](https://twitter.com/GamenetZero)<br>
 [YouTube](https://youtube.com/ZeroGameShow)<br>
