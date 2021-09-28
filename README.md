@@ -6,9 +6,11 @@
   ご意見などがありましたらTwitterなどにお送りください。
 </p>
 <br>
+
 [Twitter](https://twitter.com/GamenetZero)<br>
 [YouTube](https://youtube.com/ZeroGameShow)<br>
 [blog](http://zenero.cf/)<br>
+
 <br>
 <br>
 <h4>
