@@ -18,8 +18,3 @@
   本Packは全てのバージョンを同じUUIDで作成しています。<br>
   新しいバージョンを導入する際は古いバージョンのものを削除してから導入してください。
 </p>
-<br>
-<h2>
-  Last Video
-</h2>
-https://www.youtube.com/embed/1veWW5vvRFc
