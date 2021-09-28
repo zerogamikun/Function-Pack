@@ -2,6 +2,8 @@
 配布ワールドやミニゲームのシステム補助などに役立つ(かもしれない)Addonです。<br>
 ご意見などがありましたらTwitterなどにお送りください。
 
+<img scr="http://zenero.cf/logo.png">
+
 [Twitter](https://twitter.com/GamenetZero)<br>
 [YouTube](https://youtube.com/ZeroGameShow)<br>
 [blog](http://zenero.cf/)<br>
