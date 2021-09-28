@@ -2,7 +2,7 @@
 配布ワールドやミニゲームのシステム補助などに役立つ(かもしれない)Addonです。<br>
 ご意見などがありましたらTwitterなどにお送りください。
 
-<img src="http://zenero.cf/logo.png">
+<img src="http://zenero.cf/logo.png" width=40>
 
 [Twitter](https://twitter.com/GamenetZero)<br>
 [YouTube](https://youtube.com/ZeroGameShow)<br>
