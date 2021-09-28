@@ -1,4 +1,6 @@
-# Function's Pack
+<h2>
+  Function's Pack
+</h2>
 <p>
   配布ワールドやミニゲームのシステム補助などに役立つ(かもしれない)Addonです。<br>
   ご意見などがありましたらTwitterなどにお送りください。
