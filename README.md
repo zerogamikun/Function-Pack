@@ -1,5 +1,5 @@
 # Function's Pack
-配布ワールドやミニゲームのシステム補助などに役立つ(かもしれない)Addonです。\n
+配布ワールドやミニゲームのシステム補助などに役立つ(かもしれない)Addonです。<br>
 ご意見などがありましたらTwitterなどにお送りください。
 
 [Twitter](https://twitter.com/GamenetZero)
