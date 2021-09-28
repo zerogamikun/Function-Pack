@@ -22,4 +22,4 @@
 <h2>
   Last Video
 </h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1veWW5vvRFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+https://www.youtube.com/embed/1veWW5vvRFc
